@@ -1,0 +1,25 @@
+.Background{
+    background-color: rgb( 190,189,187);
+    min-height: 100vh;
+    height: 100%;
+}
+.Body{
+    max-width: 500px;
+    padding: 15px;
+    background-color: whitesmoke;
+}
+.Ul{
+    list-style: none;
+}
+.Li{
+    margin: 5px 0;
+    background-color: white;
+    padding: 5px;
+}
+.Back{
+    cursor: pointer;
+    padding: 4px;
+}
+.Back:hover{
+    background-color: white;
+}
